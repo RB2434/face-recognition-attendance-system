@@ -24,6 +24,8 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 
 - **Developed During**: AICTE Internship Program on Artificial Intelligence (AI: Transformative Learning with TechSaksham)  
 - **Internship Program**: TechSaksham (by Microsoft & SAP)  
+ AICTE Student ID: STU671cb247eeda01729933895
+ AICTE Internship ID: INTERNSHIP_172777276266fbb85a28f94
 - **Duration**: 13th November 2024 – 30th December 2024
 
 ---
