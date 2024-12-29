@@ -191,33 +191,26 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 
 ## 👨‍💻 Developer Info  
 
-<table style="width:100%; border:0; text-align:center; background-color:#f9f9f9; padding:20px;">
+<table style="width:100%; text-align:center; background-color:#f9f9f9; padding:20px;">
   <!-- First row with profile image -->
   <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma" width="120" style="border-radius:50%; box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
-    </td>
-  </tr>
-  <!-- Second row with name -->
-  <tr>
-    <td>
-      <h2 style="font-size:20px; font-weight:bold; color:#2c3e50; margin-top:15px;">Vaibhav Sharma</h2>
-    </td>
-  </tr>
-  <!-- Third row with social media icons -->
-  <tr>
-    <td>
-      <a href="mailto:itsVaibhavSharma007@gmail.com" style="text-decoration:none; margin-right:15px;">
-        ![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma's Avatar" width="150" height="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/><br>
+      <strong>Vaibhav Sharma</strong><br>
+      Full Stack Developer<br>
+      <a href="https://www.linkedin.com/in/itsvaibhavsharma/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://github.com/itsVaibhavSharma" target="_blank" style="text-decoration:none; margin-right:15px;">
-        ![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)
+      <a href="https://github.com/itsVaibhavSharma" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
-      <a href="https://www.linkedin.com/in/itsvaibhavsharma/" target="_blank" style="text-decoration:none;">
-        ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+      <a href="mailto:itsVaibhavSharma007@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
   </tr>
+  <!-- Second row with name and contact info -->
+  
 </table>
 
 
