@@ -191,21 +191,35 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 
 ## 👨‍💻 Developer Info  
 
-<div style="text-align:center; background-color:#f9f9f9; border-radius:8px; box-shadow:0px 4px 8px rgba(0,0,0,0.1); padding:20px; width:80%; margin:auto; font-family:Arial, sans-serif;">
-  <img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma" width="120" style="border-radius:50%; box-shadow:0px 4px 8px rgba(0,0,0,0.2); margin-bottom:15px;">
-  <h2 style="font-size:20px; font-weight:bold; color:#2c3e50;">Vaibhav Sharma</h2>
-  <div style="margin-top:20px;">
-    <a href="mailto:itsVaibhavSharma007@gmail.com" style="display:block; margin:10px auto; text-decoration:none; font-size:16px; color:#2c3e50; width:200px; border:1px solid #dcdcdc; padding:10px; border-radius:5px; background-color:#ffffff; box-shadow:0px 2px 4px rgba(0,0,0,0.1);">
-      <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" style="width:24px; vertical-align:middle; margin-right:10px;"> Email
-    </a>
-    <a href="https://github.com/itsVaibhavSharma" target="_blank" style="display:block; margin:10px auto; text-decoration:none; font-size:16px; color:#2c3e50; width:200px; border:1px solid #dcdcdc; padding:10px; border-radius:5px; background-color:#ffffff; box-shadow:0px 2px 4px rgba(0,0,0,0.1);">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" style="width:24px; vertical-align:middle; margin-right:10px;"> GitHub
-    </a>
-    <a href="https://www.linkedin.com/in/itsvaibhavsharma/" target="_blank" style="display:block; margin:10px auto; text-decoration:none; font-size:16px; color:#2c3e50; width:200px; border:1px solid #dcdcdc; padding:10px; border-radius:5px; background-color:#ffffff; box-shadow:0px 2px 4px rgba(0,0,0,0.1);">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width:24px; vertical-align:middle; margin-right:10px;"> LinkedIn
-    </a>
-  </div>
-</div>
+<table style="width:100%; border:0; text-align:center; background-color:#f9f9f9; padding:20px;">
+  <!-- First row with profile image -->
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma" width="120" style="border-radius:50%; box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
+    </td>
+  </tr>
+  <!-- Second row with name -->
+  <tr>
+    <td>
+      <h2 style="font-size:20px; font-weight:bold; color:#2c3e50; margin-top:15px;">Vaibhav Sharma</h2>
+    </td>
+  </tr>
+  <!-- Third row with social media icons -->
+  <tr>
+    <td>
+      <a href="mailto:itsVaibhavSharma007@gmail.com" style="text-decoration:none; margin-right:15px;">
+        ![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)
+      </a>
+      <a href="https://github.com/itsVaibhavSharma" target="_blank" style="text-decoration:none; margin-right:15px;">
+        ![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)
+      </a>
+      <a href="https://www.linkedin.com/in/itsvaibhavsharma/" target="_blank" style="text-decoration:none;">
+        ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
