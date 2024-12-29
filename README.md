@@ -190,11 +190,8 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 ---
 
 ## 👨‍💻 Developer Info  
-<table>
-<tr align="center">
-<td align="center">
-<table style="width:100%; text-align:center; background-color:#f9f9f9; padding:20px;">
 
+<table style="width:100%; text-align:center; background-color:#f9f9f9; padding:20px;">
   <!-- First row with profile image -->
   <tr align="center">
     <td align="center">
@@ -215,10 +212,7 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
   <!-- Second row with name and contact info -->
   
 </table>
-</td>
-</tr>
 
-</table>
 
 
 
