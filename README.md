@@ -24,8 +24,10 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 
 - **Developed During**: AICTE Internship Program on Artificial Intelligence (AI: Transformative Learning with TechSaksham)  
 - **Internship Program**: TechSaksham (by Microsoft & SAP)  
- AICTE Student ID: STU671cb247eeda01729933895
- AICTE Internship ID: INTERNSHIP_172777276266fbb85a28f94
+
+    AICTE Student ID: STU671cb247eeda01729933895
+
+    AICTE Internship ID: INTERNSHIP_172777276266fbb85a28f94
 - **Duration**: 13th November 2024 – 30th December 2024
 
 ---
@@ -189,20 +191,21 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 
 ## 👨‍💻 Developer Info  
 
-<table style="width:100%; border:none; border-collapse: collapse; background-color:#f9f9f9; border-radius:8px; box-shadow:0px 4px 8px rgba(0,0,0,0.1); padding:10px;">
-<tr>
-<td style="text-align:center; vertical-align:top; padding:20px;">
-<br>
-<img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma" width="120" style="border-radius:50%; box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
-</td>
-<td style="vertical-align:top; padding:20px; line-height:1.6; font-family:Arial, sans-serif;">
-<p style="font-size:18px; font-weight:bold; color:#2c3e50;">Vaibhav Sharma</p>
-<p style="font-size:16px; color:#34495e;"><b>Email:</b> <a href="mailto:itsVaibhavSharma007@gmail.com" style="color:#3498db; text-decoration:none;">itsVaibhavSharma007@gmail.com</a></p>
-<p style="font-size:16px; color:#34495e;"><b>GitHub:</b> <a href="https://github.com/itsVaibhavSharma" target="_blank" style="color:#3498db; text-decoration:none;">itsVaibhavSharma</a></p>
-<p style="font-size:16px; color:#34495e;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/itsvaibhavsharma/" target="_blank" style="color:#3498db; text-decoration:none;">itsVaibhavSharma</a></p>
-</td>
-</tr>
-</table>
+<div style="text-align:center; background-color:#f9f9f9; border-radius:8px; box-shadow:0px 4px 8px rgba(0,0,0,0.1); padding:20px; width:80%; margin:auto; font-family:Arial, sans-serif;">
+  <img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma" width="120" style="border-radius:50%; box-shadow:0px 4px 8px rgba(0,0,0,0.2);">
+  <h2 style="font-size:20px; font-weight:bold; color:#2c3e50; margin-top:15px;">Vaibhav Sharma</h2>
+  <div style="margin-top:10px;">
+    <a href="mailto:itsVaibhavSharma007@gmail.com" style="margin-right:15px; text-decoration:none;">
+      <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" style="width:24px;">  
+    </a>
+    <a href="https://github.com/itsVaibhavSharma" target="_blank" style="margin-right:15px; text-decoration:none;">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" style="width:24px;">
+    </a>
+    <a href="https://www.linkedin.com/in/itsvaibhavsharma/" target="_blank" style="text-decoration:none;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width:24px;">
+    </a>
+  </div>
+</div>
 
 
 
