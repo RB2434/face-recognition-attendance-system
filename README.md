@@ -190,10 +190,13 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
 ---
 
 ## 👨‍💻 Developer Info  
-
+<table>
+<tr align="center">
+<td align="center">
 <table style="width:100%; text-align:center; background-color:#f9f9f9; padding:20px;">
+
   <!-- First row with profile image -->
-  <tr>
+  <tr align="center">
     <td align="center">
       <img src="https://avatars.githubusercontent.com/itsVaibhavSharma" alt="Vaibhav Sharma's Avatar" width="150" height="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);"/><br>
       <strong>Vaibhav Sharma</strong><br>
@@ -212,7 +215,10 @@ This is a web-based **Attendance Management System** that leverages **Face Recog
   <!-- Second row with name and contact info -->
   
 </table>
+</td>
+</tr>
 
+</table>
 
 
 
