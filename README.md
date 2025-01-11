@@ -5,13 +5,13 @@
 ---
 
 ## 🗂️ Table of Contents  
-1. [Overview](#overview)  
-2. [Features](#features)  
+1. [Overview](#Overview)  
+2. [Features](#Features)  
    - [User Management](#user-management)  
    - [Attendance Management](#attendance-management)  
 3. [Technologies Used](#technologies-used)  
 4. [How It Works](#how-it-works)  
-5. [Screenshots](#screenshots)  
+5. [Screenshots](#Screenshots)  
 6. [Installation and Setup](#installation-and-setup)  
 7. [Future Enhancements](#future-enhancements)  
 8. [Developer Info](#developer-info)  
