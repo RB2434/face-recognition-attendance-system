@@ -13,9 +13,8 @@
 4. [How It Works](#how-it-works)  
 5. [Screenshots](#Screenshots)  
 6. [Installation and Setup](#installation-and-setup)  
-7. [Future Enhancements](#future-enhancements)  
-8. [Developer Info](#developer-info)  
-9. [License](#license)  
+7. [Future Enhancements](#future-enhancements)     
+8. [License](#license)  
 
 ---
 
